@@ -1,3 +1,9 @@
+"""
+Autores:
+Santiago Arath Bello Sanchez
+David Baruc López Romero
+"""
+
 import os
 import sys
 import signal
