@@ -34,7 +34,7 @@ Para compilar y ejecutar el programa necesitas:
 Compila el programa con el siguiente comando:
 
 ```bash
-gcc sheAI.c -o sheAI -lreadline
+gcc shAI.c -o shAI -lreadline
 ```
 
 ---
@@ -64,7 +64,7 @@ Dentro de la shell puedes ejecutar comandos normales del sistema, por ejemplo:
 ```
 ls
 pwd
-mkdir carpeta
+cd dir
 cat archivo.txt
 ```
 
